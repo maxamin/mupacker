@@ -4,6 +4,9 @@
 
 **Do not expect any support/help. Pull requests will be dismissed.**
 
+**I am not the author of MUPacker, and I do not claim ownership or authorship of the original code or application. This project is intended for educational purposes only and should be used solely to study file compression techniques and related technologies.
+
+Any use of this tool beyond educational or research purposes, such as distributing compressed software or bypassing licensing mechanisms, is not endorsed or supported. It is the user's responsibility to ensure compliance with applicable laws and licenses when using MUPacker.**
 
 This is a small executable packer that I have been working on and off for some time. 
 There is some bugs:
